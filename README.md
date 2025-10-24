@@ -3,7 +3,7 @@
 This is to demonstrate the github workflow, step by step.
 
 Steps:
- 
+
 - Personal fork
 - Clone locally
 - Feature branch
